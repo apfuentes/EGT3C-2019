@@ -10,10 +10,10 @@
 
 
 ### Table of contents
-1. Basic statistics (*Scallop dataset*)
-   - Genetic diversity (Ho, He) and HWE test - `R`
+1. Basic statistics
+   - Genetic diversity (Ho, He) - `R`
 
-2. Population genetic structure (*Scallop dataset*)
+2. Population genetic structure
    - Pairwise FST - `R`
    - Unsupervised clustering (PCA, nMDS) - `R`
    - Model-based clustering - `ADMIXTURE`
