@@ -45,7 +45,7 @@ if (!require("genepopedit")) {
 - Environmental data of sampling locations
 
 ### References and other recommended readings:
-- Special issue in Molecular Ecology on Population Genomics in R, (link)[https://onlinelibrary.wiley.com/toc/17550998/17/1]
+- Special issue in Molecular Ecology on Population Genomics in R, [https://onlinelibrary.wiley.com/toc/17550998/17/1]
 - Lehnert et al. (2019) Fine-scale temperature-associated genetic structure between inshore and offshore populations of sea scallop (Placopecten magellanicus). Heredity 122:69–80.
 - Wyngaarden et al. (2017) Identifying patterns of dispersal, connectivity and selection in the sea scallop, Placopecten magellanicus, using RADseq-derived SNPs. Evolutionary Applications 10:102–117.
 
