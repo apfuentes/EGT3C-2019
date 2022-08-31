@@ -44,6 +44,10 @@ if (!require("genepopedit")) {
 - SNP genotype data (96 loci) of 1308 individuals from 27 locations (Lehnert et al.,2017). SNP panel of 96 SNPs generated from RAD-seq data of Wyngaarden et al. (2017)
 - Environmental data of sampling locations
 
+## Activities
+Go to the [Wiki](https://github.com/apfuentes/EGT3C-2019/wiki) page at the top of the repository, and follow the menu on the right to go over all the proposed exercises in R.
+
+
 ### References and other recommended readings:
 - [Special issue in Molecular Ecology on Population Genomics in R](https://onlinelibrary.wiley.com/toc/17550998/17/1)
 - [Lehnert et al. (2019) Fine-scale temperature-associated genetic structure between inshore and offshore populations of sea scallop (Placopecten magellanicus). Heredity 122:69–80](https://www.nature.com/articles/s41437-018-0087-9)
